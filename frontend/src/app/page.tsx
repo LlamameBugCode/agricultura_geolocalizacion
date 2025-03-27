@@ -9,12 +9,12 @@ export default function Home() {
         <div className="text-center space-y-6 max-w-md">
           {/* Título principal */}
           <h1 className="text-4xl font-extrabold tracking-tight text-white drop-shadow-lg">
-            Bienvenido a tu plantilla
+            Hola gerardo , este es el primer cambio subido al repositorio
           </h1>
 
           {/* Descripción */}
          <Card1/>
-         
+
 
           {/* Botón de llamada a la acción */}
           <button className="bg-white text-indigo-600 font-semibold px-6 py-3 rounded-full shadow-lg hover:bg-opacity-90 transition-all duration-300">
