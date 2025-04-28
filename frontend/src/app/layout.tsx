@@ -2,7 +2,7 @@
 import type { Metadata } from "next";
 import '../globals.css';
 import Navbar from '../components/layout/navigation/navbar/Navbar';
-import Footer from '../components/layout/footer/Footer';
+import { FooterSection as Footer } from '../components/layout/footer/Footer';
 
 export const metadata: Metadata = {
   title: "Mi Proyecto Escalable",
